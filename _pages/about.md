@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am currently a Ph.D. candidate in the Department of Engineering at [King’s College London](https://www.kcl.ac.uk/), London, United Kingdom, under the supervision of [Prof. Yansha Deng](https://www.kcl.ac.uk/people/yansha-deng), . 
+Hi, there! I am currently a Ph.D. candidate in the Department of Engineering at [King’s College London](https://www.kcl.ac.uk/), London, United Kingdom, under the supervision of [Prof. Yansha Deng](https://www.kcl.ac.uk/people/yansha-deng), and in collaboration with Toshiba Europe Ltd., where I am co-supervised by [Dr. Adnan Aijaz](https://adnanaijaz.com/) and [Dr. Yichao Jin](https://scholar.google.com/citations?user=prcqwqAAAAAJ&hl=en).
 
 Prior to this, I obtained my Bachelor of Engineering degree from the School of Computer Science and Network Engineering at Guangzhou University in 2020, and my Master of Engineering degree from the School of Cyberspace Security at Guangzhou University in 2023, under the supervision of Prof. Lisheng Fan.
 
