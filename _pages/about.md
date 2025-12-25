@@ -25,4 +25,4 @@ Education
 * B.S. in Communication Engineering, Chongqing University, 2018.9 - 2022.6
 
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Kr3JHIfobUwIgjI4JxqkPRYD_sy2RNiE17Mo4HRNhF0&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=200&t=tt&d=Kr3JHIfobUwIgjI4JxqkPRYD_sy2RNiE17Mo4HRNhF0&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
