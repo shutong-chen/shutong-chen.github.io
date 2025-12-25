@@ -8,11 +8,7 @@ redirect_from:
 ---
 Hi, there! I am currently a Ph.D. candidate in the Department of Engineering at [King’s College London](https://www.kcl.ac.uk/), London, United Kingdom, under the supervision of [Prof. Yansha Deng](https://www.kcl.ac.uk/people/yansha-deng), and in collaboration with Toshiba Europe Ltd., where I am co-supervised by [Dr. Adnan Aijaz](https://adnanaijaz.com/) and [Dr. Yichao Jin](https://scholar.google.com/citations?user=prcqwqAAAAAJ&hl=en).
 
-Prior to this, I obtained my Bachelor of Engineering degree from the School of Computer Science and Network Engineering at Guangzhou University in 2020, and my Master of Engineering degree from the School of Cyberspace Security at Guangzhou University in 2023, under the supervision of Prof. Lisheng Fan.
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Prior to this, I obtained my Bachelor Degree in Communication Engineering from [the School of Microelectronics and Communication Engineering](http://www.ccee.cqu.edu.cn/NewEnglish/Home.htm) at Chongqing University in 2022, and my Master Degree in Internet Engineering from [the Department of Electronic and Electrical Engineering](https://www.ucl.ac.uk/engineering/electronic-electrical-engineering) at University College London in 2023, under the supervision of Prof. Lisheng Fan.
 
 A data-driven personal website
 ======
