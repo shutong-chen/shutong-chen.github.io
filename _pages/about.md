@@ -24,5 +24,7 @@ Education
 * M.S. in Internet Engineering, University College London, 2022.9 - 2023.9
 * B.S. in Communication Engineering, Chongqing University, 2018.9 - 2022.6
 
+<br>
+<br>
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=200&t=tt&d=Kr3JHIfobUwIgjI4JxqkPRYD_sy2RNiE17Mo4HRNhF0&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=a&t=tt&d=Kr3JHIfobUwIgjI4JxqkPRYD_sy2RNiE17Mo4HRNhF0&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
