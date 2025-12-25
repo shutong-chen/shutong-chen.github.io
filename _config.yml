@@ -23,7 +23,7 @@ repository               : "shutong-chen/shutong-chen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.jpg"
+  avatar           : "Profile.png"
   name             : "Shutong Chen"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at King's College London"
