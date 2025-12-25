@@ -18,7 +18,13 @@ My research interests include:
 
 Feel free to drop me an email (shutong.chen@kcl.ac.uk) if you have any questions (▰˘◡˘▰) . 
 
-Getting started
+Education
+======
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
+
+Publication
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
