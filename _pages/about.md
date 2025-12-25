@@ -24,6 +24,39 @@ Education
 * M.S. in Internet Engineering, University College London, 2022.9 - 2023.9
 * B.S. in Communication Engineering, Chongqing University, 2018.9 - 2022.6
 
+ <section id="highlighted-work">
+    <h2>Highlighted NI<font color="green"><b>CE</b></font> Lab Work</h2>
+
+    <h3>AI for Network</h3>
+
+    {% assign papers_genai = site.data.papers | where: "category", "AI for Network" %}
+    {% for paper in papers_genai %}
+    <table>
+      <tr>
+        <td width="280">
+          <a href="{{ paper.arxiv }}">
+            <img src="{{ paper.image }}" width="270">
+          </a>
+        </td>
+        <td>
+          <b>{{ forloop.index }}. {{ paper.title }}</b><br>
+          {{ paper.authors }}<br>
+          {{ paper.venue }}<br>
+          <span style="color:#CC5500"><b>{{ paper.tag | split: ":" | first }}</b>: <i>{{ paper.tag | split: ":" | last | strip }}</i></span><br>
+          <span style="color:green">{{ paper.summary }}</span><br>
+          <img src="accessories/pdf.jpg" width="12"> <a href="{{ paper.pdf }}">PDF</a>
+          {% if paper.code %}
+          | <img src="accessories/github_icon.jpg" width="15"> <a href="{{ paper.code }}">Code</a>
+          {% endif %}
+        </td>
+      </tr>
+    </table>
+    {% endfor %}
+  </section>
+
+  <hr>
+
+
 <br>
 <br>
 
