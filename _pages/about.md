@@ -6,14 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, there! I am currently a Ph.D. candidate in the Department of Engineering at [King’s College London](https://www.kcl.ac.uk/), London, United Kingdom, under the supervision of [Prof. Yansha Deng](https://www.kcl.ac.uk/people/yansha-deng), and in collaboration with Toshiba Europe Ltd., where I am co-supervised by [Dr. Adnan Aijaz](https://adnanaijaz.com/) and [Dr. Yichao Jin](https://scholar.google.com/citations?user=prcqwqAAAAAJ&hl=en).
+Hello! I am a Ph.D. candidate in the Department of Engineering at [King’s College London](https://www.kcl.ac.uk/), London, United Kingdom, under the supervision of [Prof. Yansha Deng](https://www.kcl.ac.uk/people/yansha-deng), and in collaboration with Toshiba Europe Ltd., where I am co-supervised by [Dr. Adnan Aijaz](https://adnanaijaz.com/) and [Dr. Yichao Jin](https://scholar.google.com/citations?user=prcqwqAAAAAJ&hl=en).
 
-Prior to this, I obtained my Bachelor Degree in Communication Engineering from [the School of Microelectronics and Communication Engineering](http://www.ccee.cqu.edu.cn/NewEnglish/Home.htm) at Chongqing University in 2022 under the supervision of [Prof. Zhengchuan Chen](https://scholar.google.com/citations?user=ZxsMQYgAAAAJ&hl=en), and my Master Degree in Internet Engineering from [the Department of Electronic and Electrical Engineering](https://www.ucl.ac.uk/engineering/electronic-electrical-engineering) at University College London in 2023, under the supervision of [Prof. Miguel Rio](https://www.ee.ucl.ac.uk/~uczamjr/).
+Prior to this, I obtained my Bachelor’s Degree in Communication Engineering from [the School of Microelectronics and Communication Engineering](http://www.ccee.cqu.edu.cn/NewEnglish/Home.htm) at Chongqing University in 2022 under the supervision of [Prof. Zhengchuan Chen](https://scholar.google.com/citations?user=ZxsMQYgAAAAJ&hl=en), and my Master’s Degree in Internet Engineering from [the Department of Electronic and Electrical Engineering](https://www.ucl.ac.uk/engineering/electronic-electrical-engineering) at University College London in 2023, under the supervision of [Prof. Miguel Rio](https://www.ee.ucl.ac.uk/~uczamjr/).
 
 My research interests include:
 - Goal-oriented Semantic Communications
 - Digital Twin for Robotics
-- Large Language Model
+- Large Language Models
 - Age of Information (Previous)
 
 Feel free to drop me an email (shutong.chen@kcl.ac.uk) if you have any questions (▰˘◡˘▰) . 
