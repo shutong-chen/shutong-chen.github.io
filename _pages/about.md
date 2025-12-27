@@ -24,11 +24,8 @@ Education
 * M.S. in Internet Engineering, University College London, 2022.9 - 2023.9
 * B.S. in Communication Engineering, Chongqing University, 2018.9 - 2022.6
 
- <section id="highlighted-work">
-    <h2>Highlighted NI<font color="green"><b>CE</b></font> Lab Work</h2>
-
-    <h3>AI for Network</h3>
-
+Publication
+======
     {% assign papers_genai = site.data.papers | where: "category", "AI for Network" %}
     {% for paper in papers_genai %}
     <table>
