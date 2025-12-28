@@ -47,7 +47,7 @@ Publication
       <img src="{{ '/images/pdf.jpg' | relative_url }}" width="12">
       <a href="{{ paper.pdf }}">PDF</a>
       {% if paper.demo %}
-        | <img src="{{ '/images/website.png' | relative_url }}" width="15">
+        | <img src="{{ '/images/website.png' | relative_url }}" width="12">
         <a href="{{ paper.demo }}">Demo</a>
       {% endif %}
     </td>
