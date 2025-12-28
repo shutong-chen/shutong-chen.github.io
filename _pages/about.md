@@ -26,30 +26,35 @@ Education
 
 Publication
 ======
-    {% assign papers_genai = site.data.papers | where: "category", "AI for Network" %}
-    {% for paper in papers_genai %}
-    <table>
-      <tr>
-        <td width="280">
-          <a href="{{ paper.arxiv }}">
-            <img src="{{ paper.image }}" width="270">
-          </a>
-        </td>
-        <td>
-          <b>{{ forloop.index }}. {{ paper.title }}</b><br>
-          {{ paper.authors }}<br>
-          {{ paper.venue }}<br>
-          <span style="color:#CC5500"><b>{{ paper.tag | split: ":" | first }}</b>: <i>{{ paper.tag | split: ":" | last | strip }}</i></span><br>
-          <span style="color:green">{{ paper.summary }}</span><br>
-          <img src="accessories/pdf.jpg" width="12"> <a href="{{ paper.pdf }}">PDF</a>
-          {% if paper.code %}
-          | <img src="accessories/github_icon.jpg" width="15"> <a href="{{ paper.code }}">Code</a>
-          {% endif %}
-        </td>
-      </tr>
-    </table>
-    {% endfor %}
-  </section>
+{% assign papers_all = site.data.papers %}
+{% for paper in papers_all %}
+<table>
+  <tr>
+    <td width="280">
+      <a href="{{ paper.arxiv }}">
+        <img src="{{ paper.image }}" width="270">
+      </a>
+    </td>
+    <td>
+      <b>{{ forloop.index }}. {{ paper.title }}</b><br>
+      {{ paper.authors }}<br>
+      {{ paper.venue }}<br>
+      <span style="color:#CC5500">
+        <b>{{ paper.tag | split: ":" | first }}</b>:
+        <i>{{ paper.tag | split: ":" | last | strip }}</i>
+      </span><br>
+      <span style="color:green">{{ paper.summary }}</span><br>
+      <img src="{{ '/accessories/pdf.jpg' | relative_url }}" width="12">
+      <a href="{{ paper.pdf }}">PDF</a>
+      {% if paper.code %}
+        | <img src="{{ '/accessories/github_icon.jpg' | relative_url }}" width="15">
+        <a href="{{ paper.code }}">Code</a>
+      {% endif %}
+    </td>
+  </tr>
+</table>
+{% endfor %}
+
 
   <hr>
 
