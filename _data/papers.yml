@@ -17,9 +17,10 @@
   demo: "https://sites.google.com/view/gscfdr"
   summary: "ReaCritic is a large reasoning transformer-based DRL critic-model scaling scheme that brings LLMs' reasoning ability into DRL, performing horizontal reasoning over parallel state-action inputs and vertical reasoning through deep transformer stacks."
   tag: "🤔 ReaCritic: \"Learning without thought is labor lost. 学而不思则罔。\""
- 
 
-- title: "Minimizing Age-upon-Decisions in Bufferless System: Service Scheduling and Decision Interval"
+
+
+- title: "Goal-oriented Semantic Communication for Robot Arm Reconstruction in Digital Twin: Feature and Temporal Selections"
   authors: "Shutong Chen, Emmanouil Spyrakos-Papastavridis, Yichao Jin, Yansha Deng"
   venue: "submitted to IEEE Transactions on Mobile Computing, major revision, 2025"
   arxiv: "https://arxiv.org/abs/2411.08835"
@@ -28,4 +29,14 @@
   demo: "https://www.youtube.com/watch?v=2OdeHKxcgnk"
   summary: "ReaCritic is a large reasoning transformer-based DRL critic-model scaling scheme that brings LLMs' reasoning ability into DRL, performing horizontal reasoning over parallel state-action inputs and vertical reasoning through deep transformer stacks."
   tag: "🤔 ReaCritic: \"Learning without thought is labor lost. 学而不思则罔。\""
+ 
+
+- title: "Minimizing Age-upon-Decisions in Bufferless System: Service Scheduling and Decision Interval"
+  authors: "Shutong Chen, Emmanouil Spyrakos-Papastavridis, Yichao Jin, Yansha Deng"
+  venue: "submitted to IEEE Transactions on Mobile Computing, major revision, 2025"
+  arxiv: "https://arxiv.org/abs/2411.08835"
+  pdf: "https://arxiv.org/pdf/2411.08835"
+  image: "./images/F0.png"
+  summary: "ReaCritic is a large reasoning transformer-based DRL critic-model scaling scheme that brings LLMs' reasoning ability into DRL, performing horizontal reasoning over parallel state-action inputs and vertical reasoning through deep transformer stacks."
+  tag: "🤔 Age-upon-Decisions: \"Learning without thought is labor lost. 学而不思则罔。\""
  
