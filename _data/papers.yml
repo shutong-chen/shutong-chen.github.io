@@ -1,11 +1,11 @@
 - title: "Goal-Oriented Multi-Agent Semantic Networking: Unifying Intents, Semantics, and Intelligence"
   authors: "Shutong Chen, Qi Liao, Adnan Aijaz, Yansha Deng"
-  venue: "Nature npj Wireless Technology, 2025"
+  venue: "submitted to IEEE for potential publications"
   arxiv: "https://arxiv.org/abs/2512.01035"
   pdf: "https://arxiv.org/pdf/2512.01035"
-  image: "./images/npj.png"
-  summary: "We introduce ubiquitous intelligence as a paradigm where LLMs evolve within wireless network-driven ecosystems."
-  tag: "🧬 Ubiquitous Intelligence: \"When networks breathe, intelligence grows.\""
+  image: "./images/GoAgentNet.png"
+  summary: "We introduce a new Goal-oriented and Agent-based networking architecture for 6G."
+  tag: "🧬 GoAgentNet: \"From bit-centric networks to goal-driven agent intelligence.\""
  
 
 - title: "Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery"
