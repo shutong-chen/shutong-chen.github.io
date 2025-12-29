@@ -1,10 +1,10 @@
 - title: "Goal-Oriented Multi-Agent Semantic Networking: Unifying Intents, Semantics, and Intelligence"
   authors: "Shutong Chen, Qi Liao, Adnan Aijaz, Yansha Deng"
-  venue: "IEEE Communication Magazine"
+  venue: "submitted to IEEE for potential publications"
   arxiv: "https://arxiv.org/abs/2512.01035"
   pdf: "https://arxiv.org/pdf/2512.01035"
   image: "./images/GoAgentNet.png"
-  summary: "We introduce a new Goal-oriented and Agent-based networking architecture for 6G."
+  summary: "We introduce a new Goal-oriented and Agent-based networking architecture for 6G, which enables applications and the network to collaborate by abstracting their functions into multiple collaborative agents, and jointly orchestrates multi-agent sensing, networking, computation, and control through semantic computation and cross-layer semantic networking, allowing the entire architecture to pursue unified application goals."
   tag: "🤔 GoAgentNet: \"From bit-centric networks to goal-driven agent intelligence.\""
  
 
@@ -13,7 +13,7 @@
   venue: "submitted to IEEE for potential publications"
   image: "./images/FDR.png"
   demo: "https://sites.google.com/view/gscfdr"
-  summary: "We propose a novel Goal-oriented Communication framework tailored for fast and robust robotic FDR, where we use 3D Scene Graphs and object edge points for fault detection, with our fine-tuned Small Language Model for fault recovery"
+  summary: "We propose a novel Goal-oriented Communication framework tailored for fast and robust robotic FDR, where we use 3D Scene Graphs and object edge points for fault detection, with our fine-tuned Small Language Model for fault recovery."
   tag: "🤔 Goal-oriented Semantic Communication: \"Tranmsit what you need.\""
 
 
