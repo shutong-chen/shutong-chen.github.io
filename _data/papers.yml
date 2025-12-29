@@ -1,6 +1,6 @@
 - title: "Goal-Oriented Multi-Agent Semantic Networking: Unifying Intents, Semantics, and Intelligence"
   authors: "Shutong Chen, Qi Liao, Adnan Aijaz, Yansha Deng"
-  venue: "submitted to IEEE for potential publications"
+  venue: "IEEE Communication Magazine"
   arxiv: "https://arxiv.org/abs/2512.01035"
   pdf: "https://arxiv.org/pdf/2512.01035"
   image: "./images/GoAgentNet.png"
@@ -32,10 +32,10 @@
  
 
 - title: "Minimizing Age-upon-Decisions in Bufferless System: Service Scheduling and Decision Interval"
-  authors: "Shutong Chen, Emmanouil Spyrakos-Papastavridis, Yichao Jin, Yansha Deng"
-  venue: "submitted to IEEE Transactions on Mobile Computing, major revision, 2025"
-  arxiv: "https://arxiv.org/abs/2411.08835"
-  pdf: "https://arxiv.org/pdf/2411.08835"
+  authors: "Shutong Chen, Tianci Zhang, Zhengchuan Chen, et al."
+  venue: "IEEE Transactions on Vehicular Technology"
+  arxiv: "https://arxiv.org/abs/2203.12216"
+  pdf: "https://arxiv.org/pdf/2203.12216"
   image: "./images/F0.png"
   summary: "ReaCritic is a large reasoning transformer-based DRL critic-model scaling scheme that brings LLMs' reasoning ability into DRL, performing horizontal reasoning over parallel state-action inputs and vertical reasoning through deep transformer stacks."
   tag: "🤔 Age-upon-Decisions: \"Learning without thought is labor lost. 学而不思则罔。\""
