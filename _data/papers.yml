@@ -11,12 +11,10 @@
 - title: "Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery"
   authors: "Shutong Chen, Adnan Aijaz, Yansha Deng"
   venue: "submitted to IEEE for potential publications"
-  arxiv: "https://arxiv.org/abs/2505.10992"
-  pdf: "https://arxiv.org/pdf/2505.10992.pdf"
-  image: "./images/F0.png"
+  image: "./images/FDR.png"
   demo: "https://sites.google.com/view/gscfdr"
   summary: "ReaCritic is a large reasoning transformer-based DRL critic-model scaling scheme that brings LLMs' reasoning ability into DRL, performing horizontal reasoning over parallel state-action inputs and vertical reasoning through deep transformer stacks."
-  tag: "🤔 ReaCritic: \"Learning without thought is labor lost. 学而不思则罔。\""
+  tag: "🤔 Goal-oriented Semantic Communication: \"Tranmsit what you need.\""
 
 
 
@@ -27,7 +25,7 @@
   pdf: "https://arxiv.org/pdf/2411.08835"
   image: "./images/DT.png"
   demo: "https://www.youtube.com/watch?v=2OdeHKxcgnk"
-  summary: "Weimplements a feature selection algorithm to extract the semantic information from the reconstruction message, and a deep reinforcement learning-based temporal selection algorithm to selectively transmit the semantic information over time."
+  summary: "We implements a feature selection algorithm to extract the semantic information from the reconstruction message, and a deep reinforcement learning-based temporal selection algorithm to selectively transmit the semantic information over time."
   tag: "🤔 Goal-oriented Semantic Communication: \"Tranmsit what you need.\""
  
 
