@@ -5,7 +5,7 @@
   pdf: "https://arxiv.org/pdf/2512.01035"
   image: "./images/GoAgentNet.png"
   summary: "We introduce a new Goal-oriented and Agent-based networking architecture for 6G."
-  tag: "🧬 GoAgentNet: \"From bit-centric networks to goal-driven agent intelligence.\""
+  tag: "🤔 GoAgentNet: \"From bit-centric networks to goal-driven agent intelligence.\""
  
 
 - title: "Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery"
@@ -22,13 +22,13 @@
 
 - title: "Goal-oriented Semantic Communication for Robot Arm Reconstruction in Digital Twin: Feature and Temporal Selections"
   authors: "Shutong Chen, Emmanouil Spyrakos-Papastavridis, Yichao Jin, Yansha Deng"
-  venue: "submitted to IEEE Transactions on Mobile Computing, major revision, 2025"
+  venue: "IEEE Journal on Selected Areas in Communications"
   arxiv: "https://arxiv.org/abs/2411.08835"
   pdf: "https://arxiv.org/pdf/2411.08835"
-  image: "./images/F0.png"
+  image: "./images/DT.png"
   demo: "https://www.youtube.com/watch?v=2OdeHKxcgnk"
-  summary: "ReaCritic is a large reasoning transformer-based DRL critic-model scaling scheme that brings LLMs' reasoning ability into DRL, performing horizontal reasoning over parallel state-action inputs and vertical reasoning through deep transformer stacks."
-  tag: "🤔 ReaCritic: \"Learning without thought is labor lost. 学而不思则罔。\""
+  summary: "Weimplements a feature selection algorithm to extract the semantic information from the reconstruction message, and a deep reinforcement learning-based temporal selection algorithm to selectively transmit the semantic information over time."
+  tag: "🤔 Goal-oriented Semantic Communication: \"Tranmsit what you need.\""
  
 
 - title: "Minimizing Age-upon-Decisions in Bufferless System: Service Scheduling and Decision Interval"
