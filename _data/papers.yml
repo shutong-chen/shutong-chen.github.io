@@ -36,7 +36,7 @@
   venue: "IEEE Transactions on Vehicular Technology"
   arxiv: "https://arxiv.org/abs/2203.12216"
   pdf: "https://arxiv.org/pdf/2203.12216"
-  image: "./images/F0.png"
-  summary: "ReaCritic is a large reasoning transformer-based DRL critic-model scaling scheme that brings LLMs' reasoning ability into DRL, performing horizontal reasoning over parallel state-action inputs and vertical reasoning through deep transformer stacks."
-  tag: "🤔 Age-upon-Decisions: \"Learning without thought is labor lost. 学而不思则罔。\""
+  image: "./images/AuD.png"
+  summary: "We use age-upon-decisions (AuD) to characterize timeliness of updates at decision moments, and the missing probability to specify whether updates are useful for decision-making."
+  tag: "🤔 Age-upon-Decisions: \" Data freshness at decision epochs.\""
  
