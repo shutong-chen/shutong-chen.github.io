@@ -13,7 +13,7 @@
   venue: "submitted to IEEE for potential publications"
   image: "./images/FDR.png"
   demo: "https://sites.google.com/view/gscfdr"
-  summary: "ReaCritic is a large reasoning transformer-based DRL critic-model scaling scheme that brings LLMs' reasoning ability into DRL, performing horizontal reasoning over parallel state-action inputs and vertical reasoning through deep transformer stacks."
+  summary: "We propose a novel Goal-oriented Communication framework tailored for fast and robust robotic FDR, where we use 3D Scene Graphs and object edge points for fault detection, with our fine-tuned Small Language Model for fault recovery"
   tag: "🤔 Goal-oriented Semantic Communication: \"Tranmsit what you need.\""
 
 
