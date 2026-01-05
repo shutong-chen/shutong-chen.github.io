@@ -26,9 +26,9 @@ author:
   avatar           : "Profile.png"
   name             : "Shutong Chen"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student at King's College London"
+  bio              : "PhD Student at King's College London (KCL)"
   location         : "London"
-  employer         : "King's College London"
+  employer         : "King's College London (KCL)"
   uri              : # URL
   email            : "shutong.chen@kcl.ac.uk" 
 
