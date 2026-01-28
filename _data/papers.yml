@@ -11,6 +11,8 @@
 - title: "Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery"
   authors: "Shutong Chen, Adnan Aijaz, Yansha Deng"
   venue: "submitted to IEEE for potential publications"
+  arxiv: "https://arxiv.org/abs/2601.18765"
+  pdf: "https://arxiv.org/pdf/2601.18765"
   image: "./images/FDR.png"
   demo: "https://sites.google.com/view/gscfdr"
   summary: "We propose a novel Goal-oriented Communication framework tailored for fast and robust robotic FDR, where we use 3D Scene Graphs and object edge points for fault detection, with our fine-tuned Small Language Model for fault recovery."
