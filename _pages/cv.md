@@ -9,5 +9,5 @@ redirect_from:
 
 You can download my CV here:
 
-- 📄 [English CV (PDF)](/files/CV_Shutong_Chen_EN.pdf)
-- 📄 [中文简历（PDF）](/files/CV_Shutong_Chen_CN.pdf)
+- 📄 [English CV - Shutong Chen (PDF)](/files/CV_Shutong_Chen_EN.pdf)
+- 📄 [中文简历 - 陈疏桐（PDF）](/files/CV_Shutong_Chen_CN.pdf)
