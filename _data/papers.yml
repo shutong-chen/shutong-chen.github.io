@@ -3,7 +3,7 @@
   venue: "Submitting yo IEEE for potential publications"
   arxiv: "https://arxiv.org/abs/2609.15895"
   pdf: "https://arxiv.org/pdf/2609.15895"
-  image: "./images/Testbed.png"
+  image: "./images/testbed.png"
   demo: "https://sites.google.com/view/goc-physical-ai-testbed"
   summary: "We implement onboard semantic extraction at a Piper robot equipped with an RGB-D camera and a 5G modem, language model inference, digital twin reconstruction, and trajectory replanning at the edge server deployed on an NVIDIA Jetson AGX Orin, and 5G OAI network between them."
   tag: "🤔 Goal-oriented Semantic Communication: \"Tranmsit what you need.\""
