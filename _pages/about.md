@@ -57,7 +57,10 @@ Publication
 
 <h1 id="demo" style="margin-top: 1rem; scroll-margin-top: 4.5rem;">Demo</h1>
 
-<h2 style="margin: 0 0 0.35em; padding: 0; border: 0; font-size: 1em;">Fault Detection and Recovery in Mobile Pick-and-Place</h2>
+<h2 style="margin: 0 0 0.35em; padding: 0; border: 0; font-size: 1em;
+           text-align: center; color: color-mix(in srgb, var(--global-text-color) 60%, #666);">
+  Task: Fault Detection and Recovery in Mobile Pick-and-Place
+</h2>
 <video controls playsinline preload="metadata" width="960" height="540"
        style="display: block; width: 100%; height: auto;"
        aria-label="Fault detection and recovery in mobile pick-and-place at 2× speed"
