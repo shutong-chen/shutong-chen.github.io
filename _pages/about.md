@@ -55,7 +55,7 @@ Publication
 </table>
 {% endfor %}
 
-<h1 id="demo" style="margin-top: 1rem;">Demo</h1>
+<h1 id="demo" style="margin-top: 1rem; scroll-margin-top: 4.5rem;">Demo</h1>
 
 <h2 style="margin: 0 0 0.35em; padding: 0; border: 0; font-size: 1em;">Fault Detection and Recovery in Mobile Pick-and-Place</h2>
 <video controls playsinline preload="metadata" width="960" height="540"
