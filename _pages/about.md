@@ -55,6 +55,15 @@ Publication
 </table>
 {% endfor %}
 
+Demo
+======
+<video controls playsinline preload="metadata" width="960" height="540"
+       style="display: block; width: 100%; height: auto;"
+       aria-label="Robot demonstration at 2× speed"
+       poster="{{ '/files/robot-demo-2x.jpg' | relative_url }}">
+  <source src="{{ '/files/robot-demo-2x.mp4' | relative_url }}" type="video/mp4">
+  <a href="{{ '/files/robot-demo-2x.mp4' | relative_url }}">Download the demo video</a>
+</video>
 
   <hr>
 
